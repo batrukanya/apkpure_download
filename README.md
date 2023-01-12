@@ -1,4 +1,4 @@
-# pyapkpure
+# apkpure_download
 
 A py module to download APKs from [APKPure](https://apkpure.com/).
 
